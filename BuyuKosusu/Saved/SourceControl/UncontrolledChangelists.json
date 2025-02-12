@@ -1,0 +1,18 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"W:/UnrealProject/BuyuKosusuGit/BuyuKosusu/BuyuKosusu/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset",
+				"W:/UnrealProject/BuyuKosusuGit/BuyuKosusu/BuyuKosusu/Content/W_HUD.uasset",
+				"W:/UnrealProject/BuyuKosusuGit/BuyuKosusu/BuyuKosusu/Content/FirstPerson/Blueprints/BP_FirstPersonProjectile.uasset",
+				"W:/UnrealProject/BuyuKosusuGit/BuyuKosusu/BuyuKosusu/Content/FirstPerson/Blueprints/BP_Pickup_Rifle.uasset",
+				"W:/UnrealProject/BuyuKosusuGit/BuyuKosusu/BuyuKosusu/Content/FirstPerson/Blueprints/BP_Weapon_Component.uasset",
+				"W:/UnrealProject/BuyuKosusuGit/BuyuKosusu/BuyuKosusu/Content/BP_Projectile.uasset",
+				"W:/UnrealProject/BuyuKosusuGit/BuyuKosusu/BuyuKosusu/Content/BP_Puddle.uasset"
+			]
+		}
+	]
+}

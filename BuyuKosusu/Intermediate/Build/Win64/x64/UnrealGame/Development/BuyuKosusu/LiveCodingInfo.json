@@ -1,0 +1,8 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.BuyuKosusu.cpp.obj": [
+			"BuyuKosusu.cpp.obj"
+		]
+	}
+}
